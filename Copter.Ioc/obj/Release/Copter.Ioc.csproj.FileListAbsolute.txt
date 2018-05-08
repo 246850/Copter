@@ -1,0 +1,8 @@
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc\bin\Release\Copter.Ioc.dll.config
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc\bin\Release\Copter.Ioc.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc\bin\Release\Copter.Ioc.pdb
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc\bin\Release\Autofac.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc\bin\Release\Autofac.xml
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc\obj\Release\Copter.Ioc.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc\obj\Release\Copter.Ioc.pdb
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc\obj\Release\Copter.Ioc.csprojResolveAssemblyReference.cache

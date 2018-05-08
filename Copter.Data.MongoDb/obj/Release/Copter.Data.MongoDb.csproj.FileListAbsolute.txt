@@ -1,0 +1,4 @@
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.MongoDb\bin\Release\Copter.Data.MongoDb.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.MongoDb\bin\Release\Copter.Data.MongoDb.pdb
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.MongoDb\obj\Release\Copter.Data.MongoDb.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.MongoDb\obj\Release\Copter.Data.MongoDb.pdb

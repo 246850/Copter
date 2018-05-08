@@ -1,0 +1,17 @@
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\bin\Release\Copter.Ioc.Mvc.dll.config
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\bin\Release\Copter.Ioc.Mvc.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\bin\Release\Copter.Ioc.Mvc.pdb
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\bin\Release\Autofac.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\bin\Release\Autofac.Integration.Mvc.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\bin\Release\System.Web.Mvc.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\bin\Release\Autofac.xml
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\bin\Release\Autofac.Integration.Mvc.xml
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\bin\Release\System.Web.Mvc.xml
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\bin\Release\Microsoft.Web.Infrastructure.xml
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\obj\Release\Copter.Ioc.Mvc.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\obj\Release\Copter.Ioc.Mvc.pdb
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\obj\Release\Copter.Ioc.Mvc.csprojResolveAssemblyReference.cache
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\bin\Release\Copter.Ioc.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc.Mvc\bin\Release\Copter.Ioc.pdb

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CFACE1D4-8095-45B6-AF1B-C4597A7C2A21}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Copter.Result</RootNamespace>
+    <AssemblyName>Copter.Result</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Json\BooleanResult.cs" />
+    <Compile Include="Json\BooleanResult1.cs" />
+    <Compile Include="Json\BooleanResultExtensions.cs" />
+    <Compile Include="Json\CodeResult.cs" />
+    <Compile Include="Json\CodeResult1.cs" />
+    <Compile Include="Json\CodeResultExtensions.cs" />
+    <Compile Include="Json\CopterResult.cs" />
+    <Compile Include="Json\EasyuiPageResult.cs" />
+    <Compile Include="Json\ErrorResult.cs" />
+    <Compile Include="Json\ErrorResultExtensions.cs" />
+    <Compile Include="Json\IHasBodyResult.cs" />
+    <Compile Include="Json\IHasBoolResult.cs" />
+    <Compile Include="Json\IHasCodeResult.cs" />
+    <Compile Include="Json\IHasListResult.cs" />
+    <Compile Include="Json\IHasMessageResult.cs" />
+    <Compile Include="Json\IHasPagerResult.cs" />
+    <Compile Include="Json\ListResultOfBoolean.cs" />
+    <Compile Include="Json\ListResultOfCode.cs" />
+    <Compile Include="Json\UnAuthResult.cs" />
+    <Compile Include="PagerItem.cs" />
+    <Compile Include="Json\PagerResultOfBoolean.cs" />
+    <Compile Include="Json\PagerResultOfCode.cs" />
+    <Compile Include="Json\ServiceResult.cs" />
+    <Compile Include="Json\ServiceResult1.cs" />
+    <Compile Include="Json\ServiceResultExtensions.cs" />
+    <Compile Include="List\EfPagedList.cs" />
+    <Compile Include="List\IPagedList.cs" />
+    <Compile Include="List\PagedListExtensions.cs" />
+    <Compile Include="List\PagedListResult.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResultConst.cs" />
+    <Compile Include="ResultProvider.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

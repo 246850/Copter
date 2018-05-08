@@ -1,0 +1,14 @@
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.EF\bin\Release\Copter.Data.EF.dll.config
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.EF\bin\Release\Copter.Data.EF.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.EF\bin\Release\Copter.Data.EF.pdb
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.EF\bin\Release\EntityFramework.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.EF\bin\Release\EntityFramework.xml
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.EF\obj\Release\Copter.Data.EF.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.EF\obj\Release\Copter.Data.EF.pdb
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.EF\bin\Release\Copter.Data.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.EF\bin\Release\Copter.Result.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.EF\bin\Release\Newtonsoft.Json.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.EF\bin\Release\Copter.Data.pdb
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.EF\bin\Release\Copter.Result.pdb
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.EF\bin\Release\Newtonsoft.Json.xml
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data.EF\obj\Release\Copter.Data.EF.csprojResolveAssemblyReference.cache

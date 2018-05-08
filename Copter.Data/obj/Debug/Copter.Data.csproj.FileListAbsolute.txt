@@ -1,0 +1,9 @@
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data\bin\Debug\Copter.Data.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data\bin\Debug\Copter.Data.pdb
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data\bin\Debug\Copter.Result.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data\bin\Debug\Newtonsoft.Json.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data\bin\Debug\Copter.Result.pdb
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data\bin\Debug\Newtonsoft.Json.xml
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data\obj\Debug\Copter.Data.csprojResolveAssemblyReference.cache
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data\obj\Debug\Copter.Data.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Data\obj\Debug\Copter.Data.pdb
