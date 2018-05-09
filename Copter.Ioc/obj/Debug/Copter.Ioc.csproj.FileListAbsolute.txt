@@ -6,3 +6,11 @@ E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc\bin\Debug\Autofac.xml
 E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc\obj\Debug\Copter.Ioc.dll
 E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc\obj\Debug\Copter.Ioc.pdb
 E:\蒋海波工作文件夹\Copter_4.6.2\Copter\Copter.Ioc\obj\Debug\Copter.Ioc.csprojResolveAssemblyReference.cache
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter.GitHub\Copter\Copter.Ioc\bin\Debug\Copter.Ioc.dll.config
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter.GitHub\Copter\Copter.Ioc\bin\Debug\Copter.Ioc.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter.GitHub\Copter\Copter.Ioc\bin\Debug\Copter.Ioc.pdb
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter.GitHub\Copter\Copter.Ioc\bin\Debug\Autofac.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter.GitHub\Copter\Copter.Ioc\bin\Debug\Autofac.xml
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter.GitHub\Copter\Copter.Ioc\obj\Debug\Copter.Ioc.csprojResolveAssemblyReference.cache
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter.GitHub\Copter\Copter.Ioc\obj\Debug\Copter.Ioc.dll
+E:\蒋海波工作文件夹\Copter_4.6.2\Copter.GitHub\Copter\Copter.Ioc\obj\Debug\Copter.Ioc.pdb
